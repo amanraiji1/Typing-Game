@@ -131,6 +131,17 @@ const words = [
   "made",
   "maintain",
   "partial",
+  "environmental",
+  "availability",
+  "although",
+  "administration",
+  "organization",
+  "opportunities",
+  "registration",
+  "communications",
+  "ship",
+  "accommodation",
+  "implementation",
 ];
 
 // Init word
